@@ -35,6 +35,8 @@
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
+\usepackage{verbatim} %Used for multiline comments
+
 %----------------------------------------------------------------------------------------
 %	NAME AND CONTACT INFORMATION SECTION
 %----------------------------------------------------------------------------------------
@@ -46,7 +48,7 @@
 \title{Curriculum Vitae}
 \mobile{(+91) 9769420434}
 \email{sachinharpalani@gmail.com}
-	
+
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -59,21 +61,68 @@
 
 \section{Objective}
 
-%\cventry{2011--2012}{Masters of Commerce}{The University of California}{Berkeley}{\textit{GPA -- 8.0}}{First Class Honours}  % Arguments not required can be left empty
-%\cventry{2007--2010}{Bachelor of Business Studies}{The University of California}{Berkeley}{\textit{GPA -- 7.5}}{Specialized in Commerce}
 Intend to work in a responsible \& challenging environment which provides opportunities to learn, grow and utilize my potential and skills to its maximum
 
 \section{Skillset}
 
-\cvitem{Languages}{C, Java, HTML, CSS, PHP}
-\cvitem{Frameworks}{Laravel(PHP)}
-%\cvitem{Libraries}{Reagent (Clojurescript + Facebook React), Bootstrap}
-\cvitem{Databases}{MySQL}
+\cvitem{Languages}{Clojure, Clojurescript, Python, PHP}
+\cvitem{Frameworks}{Django(Python), Laravel(PHP)}
+\cvitem{Libraries}{Reagent (Clojurescript + Facebook React), Expo(React-Native), Bootstrap}
+\cvitem{Databases}{MongoDB, MySQL}
 %\cvitem{Tools}{spacemacs, org-mode, CIDER for clojure}
+
+
+%----------------------------------------------------------------------------------------
+%	 WORK EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Mindseed Education}
+
+\cventry {Dec'2017--Present}{Immerz Math}
+{Technology: Unity3d, Python, Django}{}{}
+{Immerz Math is a eduDriod for learning Mathematics for children of age group 10-16 yrs. My responsibilities included creating multiplayer android game using Unity3d and RESTful API using django framework with MySQL.}
+
+\cventry {Jul'2017--Nov'2017}{Immerz English}
+{Technology: Clojure, Clojurescript, Expo}{}{}
+{Immerz English is a eduDroid for learning English for children of age group 1-4 yrs. My responsibilities included developing Mobile App using Expo and Native Base, RESTful API using Clojure and NoSQL with MongoDB and Analytics using Clevertap.}
+
+
+%----------------------------------------------------------------------------------------
+%	 INTERNSHIP SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Rentkardo}
+
+\cvitem{Dec'2015--Aug'2016}{Developed RESTful API using Laravel Framework having the following functionalities: CRUD, Searching, Sorting, Filtering and Ratings.}
+
+\begin{comment}
+
+\section{Bennett, Coleman \& Co. Ltd (BCCL - The Times Group)}
+
+\cvitem{May'2016--Jul'2016}{
+\vspace{-5mm}
+\begin{itemize}
+\item Research on OWASP Vulnerabilities.
+\item Gained Hands on Testing Experience on DVWA using Burpsuite, sqlmap, nmap.
+\item Understood Project Management of Security Projects
+\end{itemize}
+}
+\end{comment}
+
+%----------------------------------------------------------------------------------------
+%	ACHIEVEMENTS SECTION
+%----------------------------------------------------------------------------------------
+
+
+\section{Achievements}
+
+\cvitem {2016}{Placed Second in Hackathon conducted by Mastek during E-SUMMIT'16 in VESIT.}
+
 
 %----------------------------------------------------------------------------------------
 %	ACADEMICS SECTION
 %----------------------------------------------------------------------------------------
+
 \section{Academics}
 
 \cvitem{2013--2017}{Bachelors of Engineering(Computer Science),
@@ -88,34 +137,7 @@ School, Powai.
 \newline
 84\%}
 
-%----------------------------------------------------------------------------------------
-%	ACHIEVEMENTS SECTION
-%----------------------------------------------------------------------------------------
-
-\section{Achievements}
-
-\cvitem {2016}{Placed Second in Hackathon conducted by Mastek during E-SUMMIT'16 in VESIT.}
-
-
-%----------------------------------------------------------------------------------------
-%	 INTERNSHIP SECTION
-%----------------------------------------------------------------------------------------
-
-\section{Rentkardo}
-
-\cvitem{Dec'2015- Aug'2016}{Developed RESTful API using Laravel Framework having the following functionalities: CRUD, Searching, Sorting, Filtering and Ratings.}
-
-\section{Bennett, Coleman \& Co. Ltd (BCCL - The Times Group)}
-
-\cvitem{May'2016- Jul'2016}{
-\vspace{-5mm}
-\begin{itemize}
-\item Research on OWASP Vulnerabilities.
-\item Gained Hands on Testing Experience on DVWA using Burpsuite, sqlmap, nmap.
-\item Understood Project Management of Security Projects
-\end{itemize}
-}
-
+\begin{comment}
 %----------------------------------------------------------------------------------------
 %	Co-curricular and Extra-curricular
 %----------------------------------------------------------------------------------------
@@ -139,7 +161,7 @@ School, Powai.
 \cvitem {}{
 \begin{itemize}
 \item Attended Lecture Series on IoT, Big Data, Project Management by L\&T Infotech.
-\item Pursuing a CISEH (Certified Information Security and Ethical Hacker) Course Certification. 
+\item Pursuing a CISEH (Certified Information Security and Ethical Hacker) Course Certification.
 \item Certificate of PHP and MySQL Training from IIT Bombay at VESIT, Chembur.
 \item Attended a workshop on Ethical Hacking by Pristine Infosolutions and Skynet Secure.
 \item Attended a workshop on Android Application Development by Skynet Secure.
@@ -155,5 +177,7 @@ School, Powai.
 \cvitem{Sindhi}{Native or bilingual proficiency}
 \cvitem{English}{Full professional proficiency}{}
 \cvitem{Hindi}{Professional working proficiency}{}
+
+\end{comment}
 
 \end{document}
