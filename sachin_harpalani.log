@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.9)  11 JUN 2018 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.9)  18 JUN 2018 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -364,29 +364,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 54.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 54.
+Package hyperref Info: Option `breaklinks' set `true' on input line 55.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 55.
 
 (./sachin_harpalani.aux)
 \openout1 = `sachin_harpalani.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 55.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -418,7 +418,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 54.
+LaTeX Info: Redefining \microtypecontext on input line 55.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -433,7 +433,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 54.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 55.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -478,7 +478,7 @@ Package microtype Info: Loading generic settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 54.
+Package hyperref Info: Link coloring OFF on input line 55.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -487,9 +487,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count108
 )
-LaTeX Info: Redefining \ref on input line 54.
-LaTeX Info: Redefining \pageref on input line 54.
-LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
 
 (./sachin_harpalani.out) (./sachin_harpalani.out)
 \@outlinefile=\write3
@@ -498,64 +498,64 @@ LaTeX Info: Redefining \nameref on input line 54.
 \makecvtitlepicturebox=\box31
 \makecvtitlepicturewidth=\skip70
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 68.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 71.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 68.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 71.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 68.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 71.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 68.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 71.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 68.
+(Font)              <10.95> on input line 71.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 68.
+(Font)              <8> on input line 71.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 68.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
+(Font)              <6> on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 186.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 183.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 186.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 183.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 186.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 186.
  (./sachin_harpalani.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 183.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 186.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 186.
 Package rerunfilecheck Info: File `sachin_harpalani.out' has not changed.
 (rerunfilecheck)             Checksum: 353FB5A4439DC903BF9887BD7314A5AC;586.
  ) 
 Here is how much of TeX's memory you used:
  12134 strings out of 494910
  176374 string characters out of 6179837
- 393405 words of memory out of 5000000
+ 393472 words of memory out of 5000000
  15234 multiletter control sequences out of 15000+600000
  46872 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
@@ -567,7 +567,7 @@ c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on sachin_harpalani.pdf (1 page, 137309 bytes).
+Output written on sachin_harpalani.pdf (1 page, 137697 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
