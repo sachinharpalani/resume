@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.9)  20 JUN 2018 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.9)  21 JUN 2018 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,62 +502,62 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 78.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 80.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 78.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 80.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 78.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 80.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 78.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 80.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 78.
+(Font)              <10.95> on input line 80.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 80.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 78.
+(Font)              <6> on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 204.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 206.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 204.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 206.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
  (./sachin_harpalani.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `sachin_harpalani.out' has not changed.
 (rerunfilecheck)             Checksum: 048EE3607568F38EC8A3231B71C63FD7;576.
  ) 
 Here is how much of TeX's memory you used:
- 12136 strings out of 494910
- 176411 string characters out of 6179837
+ 12134 strings out of 494910
+ 176385 string characters out of 6179837
  394449 words of memory out of 5000000
  15236 multiletter control sequences out of 15000+600000
- 47293 words of font info for 55 fonts, out of 8000000 for 9000
+ 47192 words of font info for 54 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  46i,12n,67p,782b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
@@ -567,7 +567,7 @@ c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on sachin_harpalani.pdf (1 page, 141173 bytes).
+Output written on sachin_harpalani.pdf (1 page, 141018 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream
