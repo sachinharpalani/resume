@@ -31,7 +31,7 @@
 
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 
-\usepackage[scale=0.75]{geometry} % Reduce document margins
+\usepackage[scale=0.85]{geometry} % Reduce document margins
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
 
@@ -78,18 +78,28 @@ Intend to work in a responsible \& challenging environment which provides opport
 \section{Skillset}
 
 \cvitem{Languages}{Python, JS, PHP}
-\cvitem{Frameworks}{Django(Python), Knockout JS, Laravel(PHP)}
-\cvitem{Libraries}{Celery, Redis, Bootstrap}
-\cvitem{Databases}{PSQL, MongoDB, MySQL}
-%\cvitem{Tools}{spacemacs, org-mode, CIDER for clojure}
+\cvitem{Frameworks}{Flask(Python), Django(Python), Knockout JS, Laravel(PHP)}
+\cvitem{Libraries}{Boto3, Zappa, Celery, Redis, Bootstrap}
+\cvitem{Databases}{AWS Dynamodb, PSQL, MongoDB, MySQL}
+\cvitem{Tools}{Git, Jira, Graylog, Sentry, AWS Cloudwatch}
 
 
 %----------------------------------------------------------------------------------------
 %	 WORK EXPERIENCE
 %----------------------------------------------------------------------------------------
+\section{Houm Technologies}
+
+\cventry {March'2020--Present}{houm.me}
+{Technology: Python, Flask, Boto3, AWS Lambda, AWS API Gateway, Zappa, Redis}{}{}
+{\begin{itemize}
+		\item Developed serverless application using Flask(Python) Framework and deploying through Zappa
+		\item Data modeling of Backend Architecture
+		\item Implemented RESTful APIs using AWS Dynamodb through Boto3 library
+\end{itemize}}
+
 \section{Coverfox}
 
-\cventry {Oct'2018--Present}{Ultron}
+\cventry {Oct'2018--March'2020}{Ultron}
 {Technology: Python, Django, Knockout JS, Redis, Celery}{}{}
 %{Ultron is a inhouse task-based CRM developed for helping advisors connect with right customers at the right time.}
 {\begin{itemize}
@@ -108,7 +118,7 @@ Intend to work in a responsible \& challenging environment which provides opport
 %{Immerz Math is a eduDriod for learning Mathematics for children of age group 10-16 yrs. My responsibilities included creating multiplayer android game using Unity3d and RESTful API using django framework with MySQL.}
 {\begin{itemize}
 \item Developed multiplayer android game using Unity3D
-\item Implemented RESTful API using Django(Python) Framework with MySQL database.
+\item Implemented RESTful API using Django(Python) Framework with MySQL database
 \item Responsible for setting up authentication using JWT
 \item Wrote maintable and extensible code in team environment
 \end{itemize}}
